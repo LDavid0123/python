@@ -1,0 +1,12 @@
+print(chr(97))
+'a'
+print(chr(35))
+'#'
+print(chr(8364))
+'€'
+print(chr(8721))
+'∑'
+print(ord('a'))
+97
+print(ord('€'))
+8364
